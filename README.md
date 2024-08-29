@@ -55,7 +55,6 @@ information, including how to sign up.
 - [Conda user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 - [Jupyter notebook](https://jupyter-notebook.readthedocs.io)
 - [Guide to Markdown in notebook cells](https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html)
-- [Binder Documentation](https://mybinder.readthedocs.io/en/latest/)
 - [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [matplotlib documentation](https://matplotlib.org/)
 
