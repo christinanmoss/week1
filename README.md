@@ -1,3 +1,6 @@
+# Week 1
+# Exploratory Data Science in Python
+
 ## Topics
 
 - Course Logistics
